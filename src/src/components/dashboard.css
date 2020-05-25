@@ -1,0 +1,30 @@
+ .ant-card.ant-card-bordered{
+    display: inline-flex;
+    background: linear-gradient(141deg, #9fb8ad 0%, #51dae9 51%, hsl(196, 64%, 74%) 75%);
+    margin-top: 20px;
+    justify-content: space-evenly;
+ }  
+
+.cardStyle{
+    display: inline-flex;
+    width: "27%"; 
+    margin-top: 16; 
+    margin-left : 18;
+    justify-content: space-evenly;
+}
+.addProject{
+    display: inline-flex;
+
+}
+.resultsBarDiv{
+    display: flex;
+   justify-content: space-between;
+ }
+
+ .cardStyleLine{
+    /* width: "65%" ,background: "white" ,display : "inline-flex" */
+    width: 65%;
+    background: #fefefe !important;
+    display: inline-table !important;
+    margin-left: 20px;
+ }
